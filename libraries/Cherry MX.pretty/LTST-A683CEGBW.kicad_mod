@@ -1,4 +1,4 @@
-(module LTST-A683CEGBW (layer F.Cu) (tedit 5E28CF2E)
+(module LTST-A683CEGBW (layer F.Cu) (tedit 5E29AAEB)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

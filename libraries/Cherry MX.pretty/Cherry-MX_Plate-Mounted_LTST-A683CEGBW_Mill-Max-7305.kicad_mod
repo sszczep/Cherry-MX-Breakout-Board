@@ -1,4 +1,4 @@
-(module Cherry-MX_Plate-Mounted_LTST-A683CEGBW_Mill-Max-7305 (layer F.Cu) (tedit 5E299052)
+(module Cherry-MX_Plate-Mounted_LTST-A683CEGBW_Mill-Max-7305 (layer F.Cu) (tedit 5E29AAD1)
   (fp_text reference REF** (at 0 -8.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -23,17 +23,17 @@
   (pad 5 thru_hole circle (at -3.81 -2.54) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 2.54 -5.08) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask))
-  (model "/Users/sebastianszczepanski/Documents/KiCad/libraries/Cherry MX.pretty/LTST-A683CEGBW.step"
+  (model "/Users/sebastianszczepanski/GitHub/Cherry-MX-Breakout-Board/libraries/Cherry MX.pretty/LTST-A683CEGBW.step"
     (offset (xyz 0 -5.05 -1.7))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model "/Users/sebastianszczepanski/Documents/KiCad/libraries/Cherry MX.pretty/Mill-Max-7305.step"
+  (model "/Users/sebastianszczepanski/GitHub/Cherry-MX-Breakout-Board/libraries/Cherry MX.pretty/Mill-Max-7305.step"
     (offset (xyz -3.81 2.54 -2.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/Users/sebastianszczepanski/Documents/KiCad/libraries/Cherry MX.pretty/Mill-Max-7305.step"
+  (model "/Users/sebastianszczepanski/GitHub/Cherry-MX-Breakout-Board/libraries/Cherry MX.pretty/Mill-Max-7305.step"
     (offset (xyz 2.54 5.08 -2.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

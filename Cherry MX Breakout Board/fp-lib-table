@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Cherry MX")(type KiCad)(uri "/Users/sebastianszczepanski/GitHub/Cherry-MX-Breakout-Board/libraries/Cherry MX.pretty")(options "")(descr ""))
+)

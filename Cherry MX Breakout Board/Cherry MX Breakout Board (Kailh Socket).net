@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "/Users/sebastianszczepanski/Documents/KiCad/Cherry MX Breakout Board/Cherry MX Breakout Board (Kailh Socket).sch")
-    (date "Thursday, 23 January 2020 at 13:32:53")
+    (source "/Users/sebastianszczepanski/GitHub/Cherry-MX-Breakout-Board/Cherry MX Breakout Board/Cherry MX Breakout Board (Kailh Socket).sch")
+    (date "Thursday, 23 January 2020 at 15:23:03")
     (tool "Eeschema (5.1.5-0-10_14)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -75,7 +75,7 @@
         (pin (num 2) (name ~) (type passive)))))
   (libraries
     (library (logical Cherry_MX)
-      (uri /Users/sebastianszczepanski/Documents/KiCad/libraries/Cherry_MX.lib))
+      (uri /Users/sebastianszczepanski/GitHub/Cherry-MX-Breakout-Board/libraries/Cherry_MX.lib))
     (library (logical Connector)
       (uri "/Library/Application Support/kicad/library/Connector.lib"))
     (library (logical Device)
