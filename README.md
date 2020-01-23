@@ -8,6 +8,8 @@ Both are hot-swap capable (**Kailh Socket** / **Mill-Max 7305**).
 
 Total board dimensions: **26 x 19 mm**.
 
+**Mill-Max 7305 holes are compatible with standalone switches so they can be soldered directly to the board.**
+
 | Schematic | PCB (Kailh Socket) | PCB (Mill-Max 7305) |
 |---|---|---|
 | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Schematic.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Kailh%20Socket%20PCB.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Mill-Max%207305%20PCB.jpg) |
