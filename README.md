@@ -25,3 +25,10 @@ Total board dimensions: **26 x 19 mm**.
 | Top View | Bottom View |
 |---|---|
 | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Mill-Max%207305%20Top%20View.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Mill-Max%207305%20Bottom%20View.jpg) |
+
+## Datasheets
+
+  * [Cherry MX](https://github.com/sszczep/Cherry-MX-Breakout-Board/blob/master/datasheets/Cherry%20MX.pdf)
+  * [LTST-A683CEGBW](https://github.com/sszczep/Cherry-MX-Breakout-Board/blob/master/datasheets/LTST-A683CEGBW.pdf)
+  * [Kailh Socket](https://github.com/sszczep/Cherry-MX-Breakout-Board/blob/master/datasheets/Kailh%20Socket.pdf)
+  * [Mill-Max](https://github.com/sszczep/Cherry-MX-Breakout-Board/blob/master/datasheets/Mill-Max.pdf)
