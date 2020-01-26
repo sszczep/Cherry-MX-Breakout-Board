@@ -113,24 +113,18 @@ F 3 "" H 4850 4225 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4975 4225 4975 4200
-Wire Wire Line
-	4975 4200 4850 4200
-Wire Wire Line
-	4850 4200 4850 4225
-Wire Wire Line
 	4725 3350 4725 3325
 Wire Wire Line
 	4725 3025 4725 3000
 $Comp
 L power:VCC #PWR04
 U 1 1 5E285ED9
-P 5175 4050
-F 0 "#PWR04" H 5175 3900 50  0001 C CNN
-F 1 "VCC" H 5192 4223 50  0000 C CNN
-F 2 "" H 5175 4050 50  0001 C CNN
-F 3 "" H 5175 4050 50  0001 C CNN
-	1    5175 4050
+P 5275 4075
+F 0 "#PWR04" H 5275 3925 50  0001 C CNN
+F 1 "VCC" H 5292 4248 50  0000 C CNN
+F 2 "" H 5275 4075 50  0001 C CNN
+F 3 "" H 5275 4075 50  0001 C CNN
+	1    5275 4075
 	1    0    0    -1  
 $EndComp
 Text GLabel 5375 4200 1    50   Input ~ 0
@@ -139,16 +133,14 @@ Text GLabel 6000 3125 2    50   Input ~ 0
 SW2
 Text GLabel 5475 4200 1    50   Input ~ 0
 SW2
-Text GLabel 5075 4200 1    50   Input ~ 0
+Text GLabel 4975 4175 1    50   Input ~ 0
 DIN
-Text GLabel 5275 4200 1    50   Input ~ 0
+Text GLabel 5175 4200 1    50   Input ~ 0
 DOUT
 Wire Wire Line
 	5475 4225 5475 4200
 Wire Wire Line
 	5375 4225 5375 4200
-Wire Wire Line
-	5275 4225 5275 4200
 $Comp
 L Device:C C1
 U 1 1 5E27C2F1
@@ -163,5 +155,13 @@ $EndComp
 Wire Wire Line
 	5075 4225 5075 4200
 Wire Wire Line
-	5175 4050 5175 4225
+	4850 4200 4850 4225
+Wire Wire Line
+	4850 4200 5075 4200
+Wire Wire Line
+	4975 4225 4975 4175
+Wire Wire Line
+	5175 4225 5175 4200
+Wire Wire Line
+	5275 4075 5275 4225
 $EndSCHEMATC
