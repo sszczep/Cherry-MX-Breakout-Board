@@ -1,7 +1,11 @@
 # Cherry MX Breakout Boards
 
-![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/switch.gif) 
-
+<table>
+ <tbody>
+  <tr>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/switch.gif"></td>
+   <td>
+    
 Two breakout boards designed in **KiCad**. 
 
 Both feature reverse-mounted addressable RGB LED **LTST-A683CEGBW**. 
@@ -9,6 +13,10 @@ Both feature reverse-mounted addressable RGB LED **LTST-A683CEGBW**.
 Both are hot-swap capable (**Kailh Socket** / **Mill-Max 7305**).
 
 Total board dimensions: **26 x 19 mm**.
+   </td>
+  </tr>
+ </tbody>
+</table>
 
 **Mill-Max 7305 holes are compatible with standalone switches so they can be soldered directly to the board.**
 
