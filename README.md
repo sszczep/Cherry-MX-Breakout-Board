@@ -96,6 +96,37 @@ Total board dimensions: **26 x 19 mm**.
  </tbody>
 </table>
 
+## What socket is right for me?
+<table>
+ <thead>
+  <tr>
+   <td></td>
+   <td>Kailh Socket</td>
+   <td>Mill-Max 7305 & 0305</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Cost per switch</td>
+   <td>$0.10 on <a href="https://kbdfans.com/products/mechanical-keyboard-switches-kailh-pcb-socket">kbdfans.com</a></td>
+   <td>about $0.88 on <a href="https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/7305-0-15-15-47-27-10-0/ED1039-ND/1765737">digikey.com</a></td>
+  </tr>
+  <tr>
+   <td>Requires compatible PCB?</td>
+   <td>Yes</td>
+   <td>No</td>
+  </tr>
+  <tr>
+   <td>Soldering difficulty</td>
+   <td colspan="2">Both socket types are easy to solder and there shouldn't be any problems</td>
+  </tr>
+  <tr>
+   <td>General Notes</td>
+   <td colspan="2">Kailh Sockets are much cheaper when it comes to custom builds but require custom PCB. Mill-Max connectors are not as stabilized as they make an extra gap between PCB and switch. Mill-Max 7305 is preferable over 0305, it's thinner so the gap is not that wide. Swapping switches seems easier using Kailh Sockets, Mill-Max connectors tend to bend sockets' pins. In my opinion, Mill-Max connectors should be taken into an account only when you modify pre-existing PCB as they have no advantage over Kailh Sockets and simply cost more
+  </tr>
+ </tbody>
+</table>
+
 ## Datasheets
 
   * [Cherry MX](https://github.com/sszczep/Cherry-MX-Breakout-Board/blob/master/datasheets/Cherry%20MX.pdf)
