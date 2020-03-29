@@ -73,6 +73,7 @@ Total board dimensions: **26 x 19 mm**.
     const int ledPin = 6;
     const int buttonPin = 7;
 
+    int ledHue = 0;
     const int ledSaturation = 255;
     const int ledBrightness = 255;
 
@@ -84,7 +85,6 @@ Total board dimensions: **26 x 19 mm**.
     }
 
     void loop() {
-      int ledHue = 0;
       if(digitalRead(buttonPin) == LOW) ledHue++;
 
       leds[0].setHSV(ledHue, ledSaturation, ledBrightness);
