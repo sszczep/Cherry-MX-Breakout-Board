@@ -3,7 +3,7 @@
 <table>
  <tbody>
   <tr>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/switch.gif"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Switch.gif"></td>
    <td>
     
 Two breakout boards designed in **KiCad**. 
@@ -22,13 +22,13 @@ Total board dimensions: **26 x 19 mm**.
 
 | Schematic | PCB (Kailh Socket) | PCB (Mill-Max 7305) |
 |---|---|---|
-| ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Schematic.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Kailh%20Socket%20PCB.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Mill-Max%207305%20PCB.jpg) |
+| ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Schematic.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Kailh%20Socket%20PCB.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Mill-Max%207305%20PCB.jpg) |
 
 ## Kailh Socket Renders
 
 | Top View | Bottom View |
 |---|---|
-| ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Kailh%20Socket%20Top%20View.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Kailh%20Socket%20Bottom%20View.jpg) |
+| ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Kailh%20Socket%20Top%20View.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Kailh%20Socket%20Bottom%20View.jpg) |
 
 > Kailh Socket 3D Model was obtained from [*QMK*](https://github.com/qmk). All credits go to them. The exact file can be found [here](https://github.com/qmk/qmk_hardware/blob/master/components/kailh_socket_mx.stp).
 
@@ -36,23 +36,23 @@ Total board dimensions: **26 x 19 mm**.
 
 | Top View | Bottom View |
 |---|---|
-| ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Mill-Max%207305%20Top%20View.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/Mill-Max%207305%20Bottom%20View.jpg) |
+| ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Mill-Max%207305%20Top%20View.jpg) | ![](https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Mill-Max%207305%20Bottom%20View.jpg) |
 
 ## Real Photos
 <table>
  <tbody>
   <tr>
-   <td colspan="3"><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real3.jpg"></td>
+   <td colspan="3"><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real3.jpg"></td>
   </tr>
   <tr>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real2.jpg"></td>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real1.jpg"></td>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real4.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real2.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real1.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real4.jpg"></td>
   </tr>
   <tr>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real5.jpg"></td>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real6.jpg"></td>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/real7.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real5.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real6.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Real7.jpg"></td>
   </tr>
  </tbody>
 </table>
@@ -91,7 +91,7 @@ Total board dimensions: **26 x 19 mm**.
       FastLED.show();
     }
    </pre></td>
-   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/master/images/wiring.jpg"></td>
+   <td><img src="https://raw.githubusercontent.com/sszczep/Cherry-MX-Breakout-Board/media/Wiring.jpg"></td>
   </tr>
  </tbody>
 </table>
